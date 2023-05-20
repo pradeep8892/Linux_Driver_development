@@ -1,0 +1,1 @@
+cmd_/home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/3.read_write/read_write.mod := printf '%s\n'   read_write.o | awk '!x[$$0]++ { print("/home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/3.read_write/"$$0) }' > /home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/3.read_write/read_write.mod
