@@ -1,0 +1,1 @@
+cmd_/home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/4.GPIO_driver/modules.order := {   echo /home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/4.GPIO_driver/gpio_driver.ko; :; } > /home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/4.GPIO_driver/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/4.GPIO_driver/gpio_driver.mod := printf '%s\n'   gpio_driver.o | awk '!x[$$0]++ { print("/home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/4.GPIO_driver/"$$0) }' > /home/pi/pradeep/Linux_Driver_Development/Linux_Driver_development/4.GPIO_driver/gpio_driver.mod
